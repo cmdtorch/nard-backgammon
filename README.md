@@ -17,7 +17,14 @@ Classic board game of Nard (Backgammon) for two players.
   - If there are no piece on the point corresponding to a die roll, the player must make a legal move with a piece further away
   - If that is not possible, a piece is borne off from the furthest point that is occupied.
 
+## Installation
+
+```bash
+$ pip install nard-backgammon
+```
+
 ## Usage
+
 
 #### Playing
 ```python
