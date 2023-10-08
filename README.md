@@ -2,6 +2,11 @@
 
 Classic board game of Nard (Backgammon) for two players.
 
+![pypi](https://img.shields.io/pypi/v/nard-backgammon.svg)
+![versions](https://img.shields.io/pypi/pyversions/nard-backgammon.svg)
+
+
+
 #### Common rules
 - Players: the game is played by two players
 - Tables board of 24 points or spaces; 2 dice; 30 pieces (15 per player)
